@@ -1,0 +1,30 @@
+[YouTube]
+arch = "arm64-v8a"
+app-name = "YouTube"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+
+[YouTube Extended]
+arch = "arm64-v8a"
+app-name = "YouTube Extended"
+cli-source = "inotia00/revanced-cli"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+
+[YouTube Music]
+app-name = "YouTube Music"
+arch = "arm64-v8a"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+
+[YouTube Music Extended]
+arch = "arm64-v8a"
+app-name = "YouTube Music Extended"
+cli-source = "inotia00/revanced-cli"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+
+[Google Photos]
+arch = "arm64-v8a"
+app-name = "Google Photos"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
