@@ -1,0 +1,14 @@
+[YouTube]
+arch = "arm64-v8a"
+app-name = "YouTube"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+
+[YouTube-Music]
+app-name = "YouTube Music"
+arch = "arm64-v8a"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+
+[Google-Photos]
+arch = "arm64-v8a"
+app-name = "Google Photos"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
